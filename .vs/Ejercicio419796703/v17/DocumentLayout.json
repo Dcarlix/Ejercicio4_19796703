@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94858EF-454E-4913-BFA9-D02241113BA5}|Ejercicio419796703\\Ejercicio419796703.csproj|c:\\users\\mineducyt\\desktop\\maui9\\ejercicio419796703\\ejercicio419796703\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94858EF-454E-4913-BFA9-D02241113BA5}|Ejercicio419796703\\Ejercicio419796703.csproj|solutionrelative:ejercicio419796703\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94858EF-454E-4913-BFA9-D02241113BA5}|Ejercicio419796703\\Ejercicio419796703.csproj|c:\\users\\mineducyt\\desktop\\maui9\\ejercicio419796703\\ejercicio419796703\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F94858EF-454E-4913-BFA9-D02241113BA5}|Ejercicio419796703\\Ejercicio419796703.csproj|solutionrelative:ejercicio419796703\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94858EF-454E-4913-BFA9-D02241113BA5}|Ejercicio419796703\\Ejercicio419796703.csproj|c:\\users\\mineducyt\\desktop\\maui9\\ejercicio419796703\\ejercicio419796703\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94858EF-454E-4913-BFA9-D02241113BA5}|Ejercicio419796703\\Ejercicio419796703.csproj|solutionrelative:ejercicio419796703\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\Ejercicio419796703\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio419796703\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\Ejercicio419796703\\MainPage.xaml.cs",
+              "RelativeToolTip": "Ejercicio419796703\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAUAAAAtAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:05:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\Ejercicio419796703\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio419796703\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\Ejercicio419796703\\App.xaml.cs",
+              "RelativeToolTip": "Ejercicio419796703\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:04:36.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\Ejercicio419796703\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Ejercicio419796703\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\maui9\\Ejercicio419796703\\Ejercicio419796703\\MainPage.xaml",
+              "RelativeToolTip": "Ejercicio419796703\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T20:59:06.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio419796703.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Margin="20,35,20,20">
+            <Label Text="Bienvenido a mi canal no olvides suscribirte :v" HorizontalOptions="End" TextColor="Green" FontAttributes="Bold" FontSize="22" TextDecorations="Strikethrough"/>
+            <Label FontSize="Medium" HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span TextDecorations="Strikethrough" FontAttributes="Bold" TextColor="Green">Programacion orientada a objetos</Span>
+                        <Span FontAttributes="Italic" TextColor="Blue" >es una paradigma de la programacion</Span>
+                        <Span TextColor="Gray" TextDecorations="Strikethrough">que no ayuda a obtener mejor resultado</Span>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
